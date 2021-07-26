@@ -1,0 +1,7 @@
+export const CONTACT_LIST = 'contacts'
+export const CONTACT_DETAIL = 'contacts detail'
+export const CREATE_CONTACT = 'create contact'
+export const SETTINGS = 'settings'
+export const LOGIN = 'login'
+export const REGISTER = 'register'
+export const HOMENAVIGATOR = 'Home'
